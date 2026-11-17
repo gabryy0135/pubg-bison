@@ -198,4 +198,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*PUBG: BATTLEGROUNDS · Updated 2026-11-16 · Shared under the MIT License*
+*PUBG: BATTLEGROUNDS · Updated 2026-11-17 · Shared under the MIT License*
